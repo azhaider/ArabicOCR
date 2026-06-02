@@ -1,6 +1,6 @@
 # Arabic OCR
 
-An iOS app that scans printed Arabic documents, extracts the text, and returns an English translation.
+An iOS app that scans printed Arabic documents, extracts the text, and returns an English translation powered by Claude API in the backend.
 
 ![App preview](arabic-ocr-thumbnails.png)
 
@@ -15,7 +15,7 @@ An iOS app that scans printed Arabic documents, extracts the text, and returns a
 
 - iOS 26+
 - Xcode 26+
-- A running instance of the [arabic-ocr-backend](../arabic-ocr-backend) on RunPod (or any compatible FastAPI endpoint)
+- Backend [arabic-ocr-backend](https://github.com/azhaider/arabic-ocr-backend) on RunPod (or any compatible FastAPI endpoint)
 
 ## Setup
 
