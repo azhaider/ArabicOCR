@@ -1,0 +1,2 @@
+// Copy this file to Config.swift and fill in your RunPod endpoint URL.
+let backendURL = "https://YOUR-RUNPOD-URL-HERE"
